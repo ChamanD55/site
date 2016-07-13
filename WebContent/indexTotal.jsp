@@ -165,7 +165,7 @@
                                 <h4 class="pull-right">$24.99</h4>
                                 <h4><a href="#">Anel Retarion</a>
                                 </h4>
-                                <p>Em our, prata e bronze com pedras de rubi.</p>
+                                <p>AUGUSTO BAITINGAS</p>
                                 <br/>
                            
                             </div>
