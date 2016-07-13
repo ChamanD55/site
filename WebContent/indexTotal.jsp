@@ -165,7 +165,7 @@
                                 <h4 class="pull-right">$24.99</h4>
                                 <h4><a href="#">Anel Retarion</a>
                                 </h4>
-                                <p>AUGUSTO BAITINGASsssssss</p>
+                                <p>AUGUSTO BAITINGASsssssdddddss</p>
                                 <br/>
                            
                             </div>
